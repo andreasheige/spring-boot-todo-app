@@ -26,6 +26,4 @@ public class Todo {
         this.todoItem = todoItem;
         this.completed = completed;
     }
-
-
 }
